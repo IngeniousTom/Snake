@@ -1,1 +1,0 @@
-D:\Stuff\Visual Studio\Projects\Snake\Snake\bin\Debug\Snake.exe.config
